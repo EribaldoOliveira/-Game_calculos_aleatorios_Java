@@ -4,3 +4,6 @@
 
 ![image](https://github.com/EribaldoOliveira/-Game_calculos_aleatorios_Java/assets/114995774/5668a05a-68ef-4663-90c9-4c4ddee52e5e)
 
+![image](https://github.com/EribaldoOliveira/-Game_calculos_aleatorios_Java/assets/114995774/f268d4a2-b193-4291-b083-4b08c84244d9)
+
+
