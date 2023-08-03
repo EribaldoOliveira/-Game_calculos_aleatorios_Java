@@ -7,6 +7,7 @@
 - Subtração
 - Multiplicação
 - Divisão
+
 ![image](https://github.com/EribaldoOliveira/Game_calculos_aleatorios_Java/assets/114995774/19ad91c3-ebb6-46af-bd78-a80d38368ab1)
 
 ![image](https://github.com/EribaldoOliveira/-Game_calculos_aleatorios_Java/assets/114995774/5668a05a-68ef-4663-90c9-4c4ddee52e5e)
