@@ -84,9 +84,9 @@ public class Game {
 		if(continuar == 1) {
 			Game.jogar();
 		}else {
-			System.out.println("====================================");
-			System.out.println("[OK, game encerrado! até a próxima.]");
-			System.out.println("====================================");
+			System.out.println("=========================================================");
+			System.out.println("[OK, Game encerrado! Você fez " + Game.pontos + " ponto(s)! Até a próxima.]");
+			System.out.println("=========================================================");
 			System.exit(0);
 		}
 	}
