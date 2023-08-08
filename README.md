@@ -22,6 +22,9 @@
 
 ![image](https://github.com/EribaldoOliveira/Game_calculos_aleatorios_Java/assets/114995774/18ae1326-c5e4-4c20-8816-0e6ad9c88977)
 
+![image](https://github.com/EribaldoOliveira/Game_calculos_aleatorios_Java/assets/114995774/ff3dc2e5-d7b2-4dc0-b796-95dc06de09c4)
+
+
 
 
 
